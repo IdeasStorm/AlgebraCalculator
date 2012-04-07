@@ -7,6 +7,7 @@ Known Bugs
 Matrix Rank is not correct always
 
 AUTHORS
+=======
 
 Muhammad Al-Syrwan <mhdsyrwan@gmail.com>
 
